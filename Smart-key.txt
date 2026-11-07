@@ -1,5 +1,6 @@
 使用デバイス
-https://akizukidenshi.com/catalog/g/g118078/
+Seeed Studio XIAO ESP32S3
+(https://akizukidenshi.com/catalog/g/g118078/)
 
 サーバ
     ディスコードとのやり取り
